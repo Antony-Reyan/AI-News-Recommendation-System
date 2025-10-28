@@ -1,0 +1,7 @@
+requests
+faiss-cpu
+sentence-transformers
+numpy
+implicit
+scipy
+newsdataapi

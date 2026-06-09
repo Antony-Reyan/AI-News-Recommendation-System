@@ -1,7 +1,7 @@
 import os
 from newsdataapi import NewsDataApiClient
+from dotenv import load_dotenv
 
-NEWS_API_KEY = "pub_869e776e5a3748a5979d0b3790562cb1"
 
 # Init client
 api = NewsDataApiClient(apikey=NEWS_API_KEY)
